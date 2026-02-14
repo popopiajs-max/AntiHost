@@ -1,0 +1,5 @@
+name: AntiHost
+version: 1.0
+main: AntiHost
+api-version: '1.21'
+description: Blocks MCServerHost ads.
